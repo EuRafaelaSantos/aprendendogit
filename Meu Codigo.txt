@@ -10,3 +10,5 @@ o comando GIT ADD .
 para criar um histórico de atualizações usamos o GIT COMMIT -M "O QUE FOI ALTERADO"
 e para enviar a atualização ao repositório usamos o GIT PUSH.
 para ver o histórico de atualizações, usamos o comando GIT REFLOG
+para retornar a uma versão do código, localmente, usamos o 
+comando GIT RESET --HARD NÚMERO DO COMMIT, OBTIDO POR MEIO DO REFLOG
