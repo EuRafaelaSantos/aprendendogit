@@ -12,3 +12,13 @@ e para enviar a atualização ao repositório usamos o GIT PUSH.
 para ver o histórico de atualizações, usamos o comando GIT REFLOG
 para retornar a uma versão do código, localmente, usamos o 
 comando GIT RESET --HARD NÚMERO DO COMMIT, OBTIDO POR MEIO DO REFLOG
+
+AS BRANCHES
+são os locais onde podemos colocar nossos arquivos com versões diferentes do código
+interessante quando se trabalha em ambiente de produção.
+a branche principal se chama MASTER
+para saber quais branches disponíveis, usamos o comando GIT BRANCH
+para adicionar uma nova branche, usamos o comando GIT BRANCH NOMEDABRANCHE
+quando listamos as branches disponíveis, a branche que estamos 
+usando atualmente aparece com um asterístico (*) ao lado
+para mudar de brusche usamos o comando GIT CHECKOUT NOMEDABRANCHE
