@@ -1,2 +1,11 @@
 Ola meu nome é Rafaela!
 nova atualização!
+Usando o git:
+para iniciar usamos o comando GIT INIT
+para verificar o status do nosso arquivo usamos o GIT STATUS
+se houver alteração no arquivo, será exibido o nome do arquivo
+modificado em vermelho.
+para salvar / informar que houve alteração no arquivo usamos
+o comando GIT ADD .
+para criar um histórico de atualizações usamos o GIT COMMIT -M "O QUE FOI ALTERADO"
+e para enviar a atualização ao repositório usamos o GIT PUSH.
