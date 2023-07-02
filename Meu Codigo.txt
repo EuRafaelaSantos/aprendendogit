@@ -29,3 +29,4 @@ para atualizar termos certeza que vamos unir os códigos mais atuais,
 usamos o comando GIT PULL
 e para unir os códigos na banche principal usamos o comando
 GIT MERGE NOMEDABRANCHETEMPORARIA
+e para finalizar a união usamos o GIT PUSH
