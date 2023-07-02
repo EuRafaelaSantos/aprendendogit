@@ -22,3 +22,10 @@ para adicionar uma nova branche, usamos o comando GIT BRANCH NOMEDABRANCHE
 quando listamos as branches disponíveis, a branche que estamos 
 usando atualmente aparece com um asterístico (*) ao lado
 para mudar de brusche usamos o comando GIT CHECKOUT NOMEDABRANCHE
+
+VOLTANDO PARA A BRANCHE PRINCIPAL E UNINDO OS CÓDIGOS
+para voltar usamos o comando GIT CHECKOUT MASTER
+para atualizar termos certeza que vamos unir os códigos mais atuais, 
+usamos o comando GIT PULL
+e para unir os códigos na banche principal usamos o comando
+GIT MERGE NOMEDABRANCHETEMPORARIA
